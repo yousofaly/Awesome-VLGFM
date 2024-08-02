@@ -133,8 +133,8 @@ image-caption-mask triplets
 |2024|arXiv|`llm`|[Large Language Models for Captioning and Retrieving Remote Sensing Images](https://arxiv.org/abs/2402.06475)|N/A|captioning only, no code yet|
 |2024|arXiv|`llm`|[H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model](https://arxiv.org/abs/2403.20213)|N/A|code to be released soon|
 |2024|RS|`llm`|[RS-LLaVA: A Large Vision-Language Model for Joint Captioning and Question Answering in Remote Sensing Imagery](https://www.mdpi.com/2072-4292/16/9/1477)|[Code](https://github.com/BigData-KSU/RS-LLaVA)|evaluating code|
-|2024|arXiv|`llm`|[SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding](https://arxiv.org/abs/2406.10100)|[Code](https://github.com/Luo-Z13/SkySenseGPT)|
-|2024|arXiv|`llm`|[EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension](https://github.com/wivizhang/EarthMarker)|[Code](https://github.com/wivizhang/EarthMarker)|
+|2024|arXiv|`llm`|[SkySenseGPT: A Fine-Grained Instruction Tuning Dataset and Model for Remote Sensing Vision-Language Understanding](https://arxiv.org/abs/2406.10100)|[Code](https://github.com/Luo-Z13/SkySenseGPT)|code released, no weights yet|
+|2024|arXiv|`llm`|[EarthMarker: A Visual Prompt Learning Framework for Region-level and Point-level Remote Sensing Imagery Comprehension](https://github.com/wivizhang/EarthMarker)|[Code](https://github.com/wivizhang/EarthMarker)|no code yet|
 
 
 ### Generative VLGFMs
